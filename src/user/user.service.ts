@@ -1,6 +1,6 @@
 import { Injectable } from "@nestjs/common";
 import { User } from "./user.entity";
-import { CONSTANTS } from "constant";
+import { CONSTANTS } from "src/constant";
 
 @Injectable()
 export class UserService {
