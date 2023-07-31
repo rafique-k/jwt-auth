@@ -11,6 +11,9 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+#Constant File
+.constant.ts
+
 # OS
 .DS_Store
 
