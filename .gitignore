@@ -12,7 +12,7 @@ yarn-error.log*
 lerna-debug.log*
 
 #Constant File
-.constant.ts
+/.constant.ts
 
 # OS
 .DS_Store
